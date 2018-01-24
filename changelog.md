@@ -16,6 +16,9 @@ Remember to update the changelog every time you contribute to the repo.
 ## Changelog format: 
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## Change #1
+* Converted the starter website into a basic CodeIgniter website
+
 
 ## *Jan 24, 2018, 9:50*
 * Updated changelog from the template
