@@ -17,6 +17,10 @@ Remember to update the changelog every time you contribute to the repo.
 ## Changelog format:
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Change #4
+* Converted a basic CI site to a good standard CI site
+* It now displays only 3 images using the database on the welcome page.
+
 ## Change #3
 * Converted the trivial CI site to a basic site
 * Created template page for the views
