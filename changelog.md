@@ -17,12 +17,16 @@ Remember to update the changelog every time you contribute to the repo.
 ## Changelog format:
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Change #3
+* Converted the trivial CI site to a basic site
+* Created template page for the views
+
 ## Change #2
 * Edited team conventions to handle quick fixes
 * Removed static html files
 
 ## Change #1
-* Converted the starter website into a basic CodeIgniter website
+* Converted the starter website into a trivial CodeIgniter website
 
 ## *Jan 24, 2018, 9:50*
 * Updated changelog from the template
