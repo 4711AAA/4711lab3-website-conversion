@@ -1,33 +1,22 @@
-#Change Log
+# Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
-Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+Remember to update the changelog every time you contribute to the repo.
 
-## *Version x.x*
+## Team membership:  
+* Paul Li (Captain)
+* Si-Yang Wu (Mate)  
 
-Release Date: Jul 26, 2027
+## Team conventions: 
+* Allman notation
+* markdown for changelog
+* newest changes go on the top
+* use 24 hour time
+* feature branch name formatted as "feature-nameOfFeature"
 
-## New Components
-
--   controllers
-
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
+## Changelog format: 
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 
+## *Jan 24, 2018, 9:50*
+* Updated changelog from the template
+* Added gitignore file
